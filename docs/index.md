@@ -1,8 +1,10 @@
 # Configuration class
 
+[github project](https://github.com/mcgivrer/configuration "Go and visit the github repository")
+
 The `Configuration` class is a very simple helper to retrieve configuration value from the `res/configuration.properties` file.
 
-![figure 1 - the Configuration class usage](./images/illustrations/java-configuration-class.svg)
+![figure 1 - the Configuration class usage](./images/illustrations/java-configuration-class.png)
 
 ## Constructor
 

@@ -2,6 +2,8 @@
 
 The `Configuration` class is a very simple helper to retrieve configuration value from the `res/configuration.properties` file.
 
+![figure 1 - the Configuration class usage](./images/illustrations/java-configuration-class.svg)
+
 ## Constructor
 
 - The `Configuration()` is the default constructor, loading the `configuration.properties` default file.
